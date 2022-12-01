@@ -7,7 +7,7 @@ O Bubble Sort baseia-se na ideia de comparar repetidamente pares de elementos ad
 - Complexidade
 
 ```
- O(n²)
+ O(N²)
 ```
 
 - Algoritmo: [C](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/bubblesort.c), [C++](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/bubblesort.cpp), [Java](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/bubblesort.java), [Python](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/bubblesort.py)
@@ -20,7 +20,21 @@ O Selection Sort é um algoritmo de ordenação baseado em se passar sempre o me
 - Complexidade
 
 ```
- O(n²)
+ O(N²)
 ```
 
 - Algoritmo: [C](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/selectionsort.c), [C++](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/selectionsort.cpp), [Java](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/selectionsort.java), [Python](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/selectionsort.py)
+
+## Merge Sort
+
+O Merge Sort é um algoritmo de ordenação por comparação do tipo dividir-para-conquistar. Sua ideia básica consiste em Dividir e Conquistar.
+
+- Complexidade
+
+```
+ O(N * log N)
+```
+
+![](/imgs/merge.gif)
+
+- Algoritmo: [C](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/mergesort.c), [C++](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/mergesort.cpp), [Java](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/mergesort.java), [Python](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/mergesort.py)
