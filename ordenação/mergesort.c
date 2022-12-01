@@ -42,6 +42,8 @@ void mergesort(int **v, int size){
             pointer_2++;
         }
     }
+    free(u1);
+    free(u2);
     
 }
 
