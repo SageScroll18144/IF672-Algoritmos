@@ -35,6 +35,6 @@ O Merge Sort é um algoritmo de ordenação por comparação do tipo dividir-par
  O(N * log N)
 ```
 
-![](/imgs/merge.gif)
+![](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/imgs/merge.gif)
 
 - Algoritmo: [C](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/mergesort.c), [C++](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/mergesort.cpp), [Java](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/mergesort.java), [Python](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/mergesort.py)
