@@ -10,6 +10,8 @@ O Bubble Sort baseia-se na ideia de comparar repetidamente pares de elementos ad
  O(N²)
 ```
 
+![](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/imgs/bubble.gif)
+
 - Algoritmo: [C](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/bubblesort.c), [C++](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/bubblesort.cpp), [Java](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/bubblesort.java), [Python](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/bubblesort.py)
 
 
@@ -22,6 +24,8 @@ O Selection Sort é um algoritmo de ordenação baseado em se passar sempre o me
 ```
  O(N²)
 ```
+
+![](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/imgs/sel.gif)
 
 - Algoritmo: [C](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/selectionsort.c), [C++](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/selectionsort.cpp), [Java](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/selectionsort.java), [Python](https://github.com/SageScroll18144/IF672-Algoritmos/blob/main/ordena%C3%A7%C3%A3o/selectionsort.py)
 
