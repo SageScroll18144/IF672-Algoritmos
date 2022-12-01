@@ -28,5 +28,7 @@ int main(){
     for(int i=0;i<size;i++) printf("%d ", a[i]);
     printf("\n");
 
+    free(a);
+
     return 0;
 }
