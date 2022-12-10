@@ -10,5 +10,8 @@ int main(){
     printf("idx: %d\n", get(&a, 0));
 
     free_dl(&a);
+
+    dynamic_list graph[100];
+    
     return 0;
 }
