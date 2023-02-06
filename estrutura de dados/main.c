@@ -1,17 +1,32 @@
 #include <stdio.h>
-#include "dynamic_list.h"
+#include "list.h"
 
 int main(){
 
-    dynamic_list a;
-    init(&a);
+    create_list();
 
-    push(&a, 54);
-    printf("idx: %d\n", get(&a, 0));
+    
+    insert(10);
+    insert(14);
+    insert(13); 
 
-    free_dl(&a);
+    // printf("front: %d\n", front());
+    // pop_back();
+    // printf("front: %d\n", front());
 
-    dynamic_list graph[100];
+
+    printf("top: %d\n", top());
+    pop_back();
+    printf("top: %d\n", top());
+
+
+    // print_list();
+
+    // printf("%d\n", find(14));
+    // remove_node(0);
+    // print_list();
+
+    close_list();
     
     return 0;
 }
